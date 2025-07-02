@@ -8,7 +8,7 @@ Here is some personal information about me:
 - 📫 How to reach me: Alicebhs@outlook.com.
 - 💬 Wechat: Vertin_Slixey.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeuicey&theme=buefy)](https://github.com/luffyZh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://juejin.cn/user/96412752681079/posts)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeuicey&theme=buefy)](https://github.com/aeuicey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://alicetec.cn)
 
 
