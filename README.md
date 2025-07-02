@@ -11,4 +11,6 @@ Here is some personal information about me:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeuicey&theme=buefy)](https://github.com/aeuicey)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://alicetec.cn)
 
+![My Card](https://gcore.jsdelivr.net/gh/aeuicey/Picwent/pic/20250702101021407.png)
+
 
