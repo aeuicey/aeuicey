@@ -42,7 +42,6 @@
 - 💬 Ask me about any question about my repos or directly give me a issue/pr~
 - 📧 Email: [Alicebhs@outlook.com](mailto:Alicebhs@outlook.com)
 - 💬 Wechat: Vertin_Slixey
-- 🌐 LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
 
 ### 😄 Fun Fact
 
