@@ -32,14 +32,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,git,github,linux,mysql,postgresql)
 
-### 🚧 Recent Projects
-
-<!-- GitHub Projects Card -->
-| Project | 描述 | 星标 | 复刻 |
-|---------|-------------|-------|-------|
-| [Project Alpha](https://github.com/aeuicey/project-alpha) | A comprehensive engineering management tool for optimizing project workflows and resource allocation. | ![GitHub stars](https://img.shields.io/github/stars/aeuicey/project-alpha?style=social) | ![GitHub forks](https://img.shields.io/github/forks/aeuicey/project-alpha?style=social) |
-| [Tech Dashboard](https://github.com/aeuicey/tech-dashboard) | A real-time analytics dashboard for monitoring engineering project metrics and team performance. | ![GitHub stars](https://img.shields.io/github/stars/aeuicey/tech-dashboard?style=social) | ![GitHub forks](https://img.shields.io/github/forks/aeuicey/tech-dashboard?style=social) |
-| [Resource Planner](https://github.com/aeuicey/resource-planner) | An AI-powered tool for predicting resource requirements and optimizing team allocation. | ![GitHub stars](https://img.shields.io/github/stars/aeuicey/resource-planner?style=social) | ![GitHub forks](https://img.shields.io/github/forks/aeuicey/resource-planner?style=social) |
 
 ### 📈 GitHub Activity
 
@@ -62,6 +54,4 @@ I love solving complex problems and turning ideas into reality!
 
 ---
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocket/rocket-original.svg" alt="Rocket" width="50" height="50" />
-</p>
+
