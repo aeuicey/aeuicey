@@ -7,19 +7,12 @@
 </p>
 
 ### 🌟 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/aeuicey">
-    <img src="https://github-readme-stats.vercel.app/api?username=aeuicey&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aeuicey">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeuicey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
+<a href="https://github.com/aeuicey">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aeuicey" />
+</a>
+<a href="https://github.com/aeuicey">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeuicey&layout=compact&langs_count=8&card_width=320" />
+</a>
 ### 👋 About Me
 
 - 🔭 I'm Chinese and currently studying in Nanjing.
