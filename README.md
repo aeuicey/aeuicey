@@ -6,314 +6,62 @@
   <a href="https://github.com/aeuicey"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=165DFF&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+aeuicey;Engineering+Management+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
-  
-  <div id="github-stats" class="flex flex-wrap justify-center gap-4 my-6">
-    <!-- GitHub stats will be inserted here -->
-  </div>
-  
-  <div style="display: inline-block; margin: 1rem 0;">
-    <a href="#about"><img src="https://img.shields.io/badge/-About-blue?style=flat-square&logo=about-dot-me&logoColor=white" alt="About" /></a>
-    <a href="#skills"><img src="https://img.shields.io/badge/-Skills-orange?style=flat-square&logo=skills&logoColor=white" alt="Skills" /></a>
-    <a href="#projects"><img src="https://img.shields.io/badge/-Projects-green?style=flat-square&logo=github&logoColor=white" alt="Projects" /></a>
-    <a href="#contact"><img src="https://img.shields.io/badge/-Contact-purple?style=flat-square&logo=contact&logoColor=white" alt="Contact" /></a>
-  </div>
-</div>
+### 🌟 GitHub Stats
 
-## 🌟 About Me <a name="about"></a>
-
-<div align="center">
-  <img src="https://github.com/aeuicey.png" alt="Profile" width="150" height="150" style="border-radius: 50%; border: 3px solid #165DFF; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-
-<p align="center" style="font-size: 1.2rem;">
-  🔭 I'm Chinese and currently studying in Nanjing.<br>
-  📖 I'm currently learning && using Engineering management...<br>
-  🌱 Ask me about any question about my repos or directly give me a issue/pr~
+<p align="center">
+  <a href="https://github.com/aeuicey">
+    <img src="https://github-readme-stats.vercel.app/api?username=aeuicey&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
 </p>
 
-## 💻 Skills & Expertise <a name="skills"></a>
+<p align="center">
+  <a href="https://github.com/aeuicey">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeuicey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
 
-<div align="center">
-  <div class="skill-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 1rem; padding: 1rem;">
-    <div class="skill-card" style="background: #f8f9fa; border-radius: 10px; padding: 1rem; text-align: center; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" class="skill-icon" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='rotate(10deg)'" onmouseout="this.style.transform='rotate(0)'">
-      <p class="skill-name" style="margin-top: 0.5rem; font-weight: bold;">Python</p>
-    </div>
-    <div class="skill-card" style="background: #f8f9fa; border-radius: 10px; padding: 1rem; text-align: center; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" class="skill-icon" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='rotate(10deg)'" onmouseout="this.style.transform='rotate(0)'">
-      <p class="skill-name" style="margin-top: 0.5rem; font-weight: bold;">Java</p>
-    </div>
-    <div class="skill-card" style="background: #f8f9fa; border-radius: 10px; padding: 1rem; text-align: center; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" class="skill-icon" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='rotate(10deg)'" onmouseout="this.style.transform='rotate(0)'">
-      <p class="skill-name" style="margin-top: 0.5rem; font-weight: bold;">HTML5</p>
-    </div>
-    <div class="skill-card" style="background: #f8f9fa; border-radius: 10px; padding: 1rem; text-align: center; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" class="skill-icon" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='rotate(10deg)'" onmouseout="this.style.transform='rotate(0)'">
-      <p class="skill-name" style="margin-top: 0.5rem; font-weight: bold;">CSS3</p>
-    </div>
-    <div class="skill-card" style="background: #f8f9fa; border-radius: 10px; padding: 1rem; text-align: center; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" class="skill-icon" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='rotate(10deg)'" onmouseout="this.style.transform='rotate(0)'">
-      <p class="skill-name" style="margin-top: 0.5rem; font-weight: bold;">JavaScript</p>
-    </div>
-    <div class="skill-card" style="background: #f8f9fa; border-radius: 10px; padding: 1rem; text-align: center; transition: all 0.3s ease; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" class="skill-icon" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='rotate(10deg)'" onmouseout="this.style.transform='rotate(0)'">
-      <p class="skill-name" style="margin-top: 0.5rem; font-weight: bold;">Git</p>
-    </div>
-  </div>
-</div>
+### 👋 About Me
 
-## 📊 GitHub Stats
+- 🔭 I'm Chinese and currently studying in Nanjing.
+- 📖 I'm currently learning && using Engineering management...
+- 🌱 Ask me about any question about my repos or directly give me a issue/pr~
+- 📫 How to reach me: [Alicebhs@outlook.com](mailto:Alicebhs@outlook.com)
+- 💬 Wechat: Vertin_Slixey
 
-<div align="center" id="dynamic-stats">
-  <!-- GitHub stats will be inserted here -->
-</div>
+### 💻 Skills & Expertise
 
-## 🚧 Recent Projects <a name="projects"></a>
+![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,git,github,linux,mysql,postgresql)
 
-<div id="projects-container" class="projects-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; padding: 1rem;">
-  <!-- Projects will be inserted here -->
-</div>
+### 🚧 Recent Projects
 
-## 📫 Get In Touch <a name="contact"></a>
+<!-- GitHub Projects Card -->
+| Project | 描述 | 星标 | 复刻 |
+|---------|-------------|-------|-------|
+| [Project Alpha](https://github.com/aeuicey/project-alpha) | A comprehensive engineering management tool for optimizing project workflows and resource allocation. | ![GitHub stars](https://img.shields.io/github/stars/aeuicey/project-alpha?style=social) | ![GitHub forks](https://img.shields.io/github/forks/aeuicey/project-alpha?style=social) |
+| [Tech Dashboard](https://github.com/aeuicey/tech-dashboard) | A real-time analytics dashboard for monitoring engineering project metrics and team performance. | ![GitHub stars](https://img.shields.io/github/stars/aeuicey/tech-dashboard?style=social) | ![GitHub forks](https://img.shields.io/github/forks/aeuicey/tech-dashboard?style=social) |
+| [Resource Planner](https://github.com/aeuicey/resource-planner) | An AI-powered tool for predicting resource requirements and optimizing team allocation. | ![GitHub stars](https://img.shields.io/github/stars/aeuicey/resource-planner?style=social) | ![GitHub forks](https://img.shields.io/github/forks/aeuicey/resource-planner?style=social) |
 
-<div align="center" style="background: #f8f9fa; border-radius: 10px; padding: 2rem; margin: 2rem 0;">
-  <h2 class="contact-heading" style="font-size: 1.5rem; margin-bottom: 1rem;">Let's Connect!</h2>
-  <p class="contact-desc" style="color: #666; margin-bottom: 1.5rem;">Feel free to reach out to me through any of these channels:</p>
-  
-  <div class="contact-links" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-    <a href="mailto:Alicebhs@outlook.com" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #165DFF; color: white; border-radius: 50%; transition: all 0.3s ease;">
-      <i class="fa fa-envelope"></i>
-    </a>
-    <a href="https://wechat.com/Vertin_Slixey" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #07C160; color: white; border-radius: 50%; transition: all 0.3s ease;">
-      <i class="fa fa-weixin"></i>
-    </a>
-    <a href="https://github.com/aeuicey" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #333; color: white; border-radius: 50%; transition: all 0.3s ease;">
-      <i class="fa fa-github"></i>
-    </a>
-    <a href="https://linkedin.com/in/yourprofile" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #0077B5; color: white; border-radius: 50%; transition: all 0.3s ease;">
-      <i class="fa fa-linkedin"></i>
-    </a>
-    <a href="https://twitter.com/yourhandle" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #1DA1F2; color: white; border-radius: 50%; transition: all 0.3s ease;">
-      <i class="fa fa-twitter"></i>
-    </a>
-  </div>
-  
-  <div class="contact-info" style="margin-top: 1.5rem; font-size: 0.9rem;">
-    <p><i class="fa fa-envelope-o"></i> Email: <a href="mailto:Alicebhs@outlook.com">Alicebhs@outlook.com</a></p>
-    <p><i class="fa fa-weixin"></i> Wechat: Vertin_Slixey</p>
-  </div>
-</div>
-
-## 🌟 Fun Fact
-
-<div align="center" style="padding: 1rem; background: #165DFF; color: white; border-radius: 10px;">
-  <p style="margin: 0;">I once built a full-stack application in just 48 hours for a hackathon!</p>
-</div>
-
-## 📈 GitHub Activity
+### 📈 GitHub Activity
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=aeuicey&bg_color=ffffff&color=165DFF&line=165DFF&point=165DFF&area=true&hide_border=true)
 
-## 📊 Profile Views
+### 📫 Get In Touch
+
+- 💬 Ask me about any question about my repos or directly give me a issue/pr~
+- 📧 Email: [Alicebhs@outlook.com](mailto:Alicebhs@outlook.com)
+- 💬 Wechat: Vertin_Slixey
+- 🌐 LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+
+### 😄 Fun Fact
+
+I love solving complex problems and turning ideas into reality!
+
+### 📊 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aeuicey&color=165DFF)
 
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocket/rocket-original.svg" alt="Rocket" width="50" height="50" style="animation: bounce 2s infinite;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocket/rocket-original.svg" alt="Rocket" width="50" height="50" />
 </p>
-
-<script>
-  // GitHub API token (optional - for increased rate limit)
-  const GITHUB_USERNAME = 'aeuicey';
-  const GITHUB_TOKEN = ''; // Optional: add your GitHub token here
-  
-  // Headers for GitHub API requests
-  const headers = GITHUB_TOKEN 
-    ? { 'Authorization': `token ${GITHUB_TOKEN}` } 
-    : {};
-  
-  // Fetch user stats
-  async function fetchUserStats() {
-    try {
-      const [userResponse, reposResponse] = await Promise.所有([
-        fetch(`https://api.github.com/users/${GITHUB_USERNAME}`, { headers }),
-        fetch(`https://api.github.com/users/${GITHUB_USERNAME}/repos?per_page=100&sort=pushed`, { headers })
-      ]);
-      
-      if (!userResponse.ok || !reposResponse.ok) {
-        throw 新建 Error(`GitHub API request failed: ${userResponse.状态} ${reposResponse.状态}`);
-      }
-      
-      const userData = await userResponse.json();
-      const reposData = await reposResponse.json();
-      
-      // Calculate total stars
-      const totalStars = reposData.reduce((sum, repo) => sum + repo.stargazers_count, 0);
-      
-      // Update user stats
-      const statsContainer = document.getElementById('github-stats');
-      statsContainer.innerHTML = `
-        <div class="stat-card bg-white rounded-lg shadow-md p-4 transition-all hover:shadow-lg">
-          <div class="text-2xl font-bold text-primary">${userData.public_repos}</div>
-          <div class="text-gray-500 text-sm">Repositories</div>
-        </div>
-        <div class="stat-card bg-white rounded-lg shadow-md p-4 transition-all hover:shadow-lg">
-          <div class="text-2xl font-bold text-accent">${totalStars}</div>
-          <div class="text-gray-500 text-sm">Stars</div>
-        </div>
-        <div class="stat-card bg-white rounded-lg shadow-md p-4 transition-all hover:shadow-lg">
-          <div class="text-2xl font-bold text-secondary">${userData.粉丝}</div>
-          <div class="text-gray-500 text-sm">Followers</div>
-        </div>
-        <div class="stat-card bg-white rounded-lg shadow-md p-4 transition-all hover:shadow-lg">
-          <div class="text-2xl font-bold text-primary/80">${userData.关注}</div>
-          <div class="text-gray-500 text-sm">Following</div>
-        </div>
-      `;
-      
-      // Update dynamic stats
-      const dynamicStatsContainer = document.getElementById('dynamic-stats');
-      dynamicStatsContainer.innerHTML = `
-        <img src="https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%" style="margin-bottom: 1rem; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${GITHUB_USERNAME}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" style="margin-bottom: 1rem; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-      `;
-      
-      return reposData;
-    } catch (error) {
-      console.error('Error fetching GitHub stats:', error);
-      return [];
-    }
-  }
-  
-  // Fetch and display recent projects
-  async function fetchAndDisplayProjects() {
-    try {
-      const repos = await fetchUserStats();
-      
-      // Filter out forks and sort by last updated
-      const myRepos = repos
-        .filter(repo => !repo.复刻)
-        .排序((a, b) => 新建 日期(b.updated_at) - 新建 日期(a.updated_at))
-        .slice(0, 3); // Get top 3 recent repos
-      
-      const projectsContainer = document.getElementById('projects-container');
-      
-      if (myRepos.length === 0) {
-        projectsContainer.innerHTML = `
-          <div class="project-card bg-white rounded-xl p-6 text-center">
-            <i class="fa fa-folder-open text-4xl text-gray-300 mb-3"></i>
-            <p class="text-gray-500">No projects found.</p>
-          </div>
-        `;
-        return;
-      }
-      
-      projectsContainer.innerHTML = '';
-      
-      myRepos.forEach(repo => {
-        // Generate random color for project header
-        const colors = ['#165DFF', '#36CFC9', '#722ED1', '#FF7D00', '#F5222D'];
-        const randomColor = colors[Math.floor(Math.random() * colors.length)];
-        
-        // Format date
-        const updatedDate = 新建 日期(repo.updated_at);
-        const formattedDate = updatedDate.toLocaleDateString();
-        
-        // Extract language color from GitHub's official language colors
-        const languageColors = {
-          'JavaScript': '#f1e05a',
-          'Python': '#3572A5',
-          'Java': '#b07219',
-          'HTML': '#e34c26',
-          'CSS': '#563d7c',
-          'TypeScript': '#2b7489',
-          'C++': '#f34b7d',
-          'C#': '#178600'
-        };
-        
-        const languageColor = repo.language && languageColors[repo.language] 
-          ? repo.language && languageColors[repo.language] 
-          : '#6e5494'; // Default color
-        
-        const projectCard = document.createElement('div');
-        projectCard.className = 'project-card';
-        projectCard.style = 'background: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: all 0.3s ease;';
-        
-        projectCard.innerHTML = `
-          <div class="project-header" style="padding: 1rem; background: ${randomColor}; color: white;">
-            <h3 class="project-title" style="font-size: 1.2rem; margin: 0;">${repo.名字}</h3>
-          </div>
-          <div class="project-body" style="padding: 1rem;">
-            <p class="project-desc" style="color: #666; margin-bottom: 1rem;">${repo.描述 || 'No description provided.'}</p>
-            <div class="project-stats" style="display: flex; justify-content: space-between; font-size: 0.9rem;">
-              <span><i class="fa fa-code-fork"></i> ${repo.forks_count} Forks</span>
-              <span><i class="fa fa-star"></i> ${repo.stargazers_count} Stars</span>
-              <span><i class="fa fa-calendar"></i> Updated ${formattedDate}</span>
-            </div>
-          </div>
-          <div class="project-footer" style="padding: 0.75rem 1rem; background: #f8f9fa; display: flex; justify-content: space-between; align-items: center;">
-            <span class="project-lang" style="background: ${languageColor}; color: white; padding: 0.25rem 0.75rem; border-radius: 10px; font-size: 0.8rem;">${repo.language || 'Unknown'}</span>
-            <a href="${repo.html_url}" class="project-link" style="color: ${randomColor}; text-decoration: none; font-weight: bold;">View Project</a>
-          </div>
-        `;
-        
-        // Add hover effect
-        projectCard.addEventListener('mouseover', () => {
-          projectCard.style.transform = 'translateY(-5px)';
-          projectCard.style.boxShadow = '0 10px 20px rgba(0,0,0,0.1)';
-        });
-        
-        projectCard.addEventListener('mouseout', () => {
-          projectCard.style.transform = 'translateY(0)';
-          projectCard.style.boxShadow = '0 4px 12px rgba(0,0,0,0.05)';
-        });
-        
-        projectsContainer.appendChild(projectCard);
-      });
-    } catch (error) {
-      console.error('Error fetching projects:', error);
-      const projectsContainer = document.getElementById('projects-container');
-      projectsContainer.innerHTML = `
-        <div class="project-card bg-white rounded-xl p-6 text-center">
-          <i class="fa fa-exclamation-triangle text-4xl text-yellow-500 mb-3"></i>
-          <p class="text-gray-500">Failed to load projects. Please try again later.</p>
-        </div>
-      `;
-    }
-  }
-  
-  // Add simple animation for the rocket icon
-  function bounce() {
-    const rocket = document.querySelector('img[alt="Rocket"]');
-    rocket.style.transform = 'translateY(-10px)';
-    setTimeout(() => {
-      rocket.style.transform = 'translateY(0)';
-    }, 500);
-  }
-  
-  // Add scroll reveal effect
-  const observer = 新建 IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        entry.target.style.opacity = 1;
-        entry.target.style.transform = 'translateY(0)';
-      }
-    });
-  }, { threshold: 0.1 });
-  
-  document.querySelectorAll('section > div').forEach(div => {
-    div.style.opacity = 0;
-    div.style.transform = 'translateY(20px)';
-    div.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
-    observer.observe(div);
-  });
-  
-  // Fetch data and start animations
-  document.addEventListener('DOMContentLoaded', () => {
-    fetchAndDisplayProjects();
-    setInterval(bounce, 2000); // Bounce rocket every 2 seconds
-  });
-</script>
