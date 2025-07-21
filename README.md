@@ -8,9 +8,9 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/aeuicey?style=social)](https://github.com/aeuicey?tab=followers)
-  [![GitHub stars](https://img.shields.io/github/stars/aeuicey?style=social)](https://github.com/aeuicey?tab=stars)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+  <div id="github-stats" class="flex flex-wrap justify-center gap-4 my-6">
+    <!-- GitHub stats will be inserted here -->
+  </div>
   
   <div style="display: inline-block; margin: 1rem 0;">
     <a href="#about"><img src="https://img.shields.io/badge/-About-blue?style=flat-square&logo=about-dot-me&logoColor=white" alt="About" /></a>
@@ -65,71 +65,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aeuicey&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%" style="margin-bottom: 1rem; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeuicey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" style="margin-bottom: 1rem; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeuicey&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" style="margin-bottom: 1rem; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=aeuicey&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+<div align="center" id="dynamic-stats">
+  <!-- GitHub stats will be inserted here -->
 </div>
 
-## 🚧 Current Projects <a name="projects"></a>
+## 🚧 Recent Projects <a name="projects"></a>
 
-<div class="projects-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; padding: 1rem;">
-  <div class="project-card" style="background: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: all 0.3s ease;">
-    <div class="project-header" style="padding: 1rem; background: #165DFF; color: white;">
-      <h3 class="project-title" style="font-size: 1.2rem; margin: 0;">Project Alpha</h3>
-    </div>
-    <div class="project-body" style="padding: 1rem;">
-      <p class="project-desc" style="color: #666; margin-bottom: 1rem;">A comprehensive engineering management tool for optimizing project workflows and resource allocation.</p>
-      <div class="project-stats" style="display: flex; justify-content: space-between; font-size: 0.9rem;">
-        <span><i class="fa fa-code-fork"></i> 24 Forks</span>
-        <span><i class="fa fa-star"></i> 78 Stars</span>
-        <span><i class="fa fa-issue-opened"></i> 12 Issues</span>
-      </div>
-    </div>
-    <div class="project-footer" style="padding: 0.75rem 1rem; background: #f8f9fa; display: flex; justify-content: space-between; align-items: center;">
-      <span class="project-lang" style="background: #165DFF; color: white; padding: 0.25rem 0.75rem; border-radius: 10px; font-size: 0.8rem;">Python</span>
-      <a href="#" class="project-link" style="color: #165DFF; text-decoration: none; font-weight: bold;">View Project</a>
-    </div>
-  </div>
-  
-  <div class="project-card" style="background: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: all 0.3s ease;">
-    <div class="project-header" style="padding: 1rem; background: #36CFC9; color: white;">
-      <h3 class="project-title" style="font-size: 1.2rem; margin: 0;">Tech Dashboard</h3>
-    </div>
-    <div class="project-body" style="padding: 1rem;">
-      <p class="project-desc" style="color: #666; margin-bottom: 1rem;">A real-time analytics dashboard for monitoring engineering project metrics and team performance.</p>
-      <div class="project-stats" style="display: flex; justify-content: space-between; font-size: 0.9rem;">
-        <span><i class="fa fa-code-fork"></i> 16 Forks</span>
-        <span><i class="fa fa-star"></i> 54 Stars</span>
-        <span><i class="fa fa-issue-opened"></i> 8 Issues</span>
-      </div>
-    </div>
-    <div class="project-footer" style="padding: 0.75rem 1rem; background: #f8f9fa; display: flex; justify-content: space-between; align-items: center;">
-      <span class="project-lang" style="background: #36CFC9; color: white; padding: 0.25rem 0.75rem; border-radius: 10px; font-size: 0.8rem;">JavaScript</span>
-      <a href="#" class="project-link" style="color: #36CFC9; text-decoration: none; font-weight: bold;">View Project</a>
-    </div>
-  </div>
-  
-  <div class="project-card" style="background: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: all 0.3s ease;">
-    <div class="project-header" style="padding: 1rem; background: #722ED1; color: white;">
-      <h3 class="project-title" style="font-size: 1.2rem; margin: 0;">Resource Planner</h3>
-    </div>
-    <div class="project-body" style="padding: 1rem;">
-      <p class="project-desc" style="color: #666; margin-bottom: 1rem;">An AI-powered tool for predicting resource requirements and optimizing team allocation.</p>
-      <div class="project-stats" style="display: flex; justify-content: space-between; font-size: 0.9rem;">
-        <span><i class="fa fa-code-fork"></i> 32 Forks</span>
-        <span><i class="fa fa-star"></i> 92 Stars</span>
-        <span><i class="fa fa-issue-opened"></i> 15 Issues</span>
-      </div>
-    </div>
-    <div class="project-footer" style="padding: 0.75rem 1rem; background: #f8f9fa; display: flex; justify-content: space-between; align-items: center;">
-      <span class="project-lang" style="background: #722ED1; color: white; padding: 0.25rem 0.75rem; border-radius: 10px; font-size: 0.8rem;">Python</span>
-      <a href="#" class="project-link" style="color: #722ED1; text-decoration: none; font-weight: bold;">View Project</a>
-    </div>
-  </div>
+<div id="projects-container" class="projects-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; padding: 1rem;">
+  <!-- Projects will be inserted here -->
 </div>
 
 ## 📫 Get In Touch <a name="contact"></a>
@@ -139,19 +82,19 @@
   <p class="contact-desc" style="color: #666; margin-bottom: 1.5rem;">Feel free to reach out to me through any of these channels:</p>
   
   <div class="contact-links" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
-    <a href="mailto:Alicebhs@outlook.com" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #165DFF; color: white; border-radius: 50%; transition: 所有 0.3s ease;">
+    <a href="mailto:Alicebhs@outlook.com" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #165DFF; color: white; border-radius: 50%; transition: all 0.3s ease;">
       <i class="fa fa-envelope"></i>
     </a>
-    <a href="https://wechat.com/Vertin_Slixey" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #07C160; color: white; border-radius: 50%; transition: 所有 0.3s ease;">
+    <a href="https://wechat.com/Vertin_Slixey" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #07C160; color: white; border-radius: 50%; transition: all 0.3s ease;">
       <i class="fa fa-weixin"></i>
     </a>
-    <a href="https://github.com/aeuicey" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #333; color: white; border-radius: 50%; transition: 所有 0.3s ease;">
+    <a href="https://github.com/aeuicey" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #333; color: white; border-radius: 50%; transition: all 0.3s ease;">
       <i class="fa fa-github"></i>
     </a>
-    <a href="https://linkedin.com/in/yourprofile" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #0077B5; color: white; border-radius: 50%; transition: 所有 0.3s ease;">
+    <a href="https://linkedin.com/in/yourprofile" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #0077B5; color: white; border-radius: 50%; transition: all 0.3s ease;">
       <i class="fa fa-linkedin"></i>
     </a>
-    <a href="https://twitter.com/yourhandle" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #1DA1F2; color: white; border-radius: 50%; transition: 所有 0.3s ease;">
+    <a href="https://twitter.com/yourhandle" class="contact-link" style="display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #1DA1F2; color: white; border-radius: 50%; transition: all 0.3s ease;">
       <i class="fa fa-twitter"></i>
     </a>
   </div>
@@ -183,6 +126,165 @@
 </p>
 
 <script>
+  // GitHub API token (optional - for increased rate limit)
+  const GITHUB_USERNAME = 'aeuicey';
+  const GITHUB_TOKEN = ''; // Optional: add your GitHub token here
+  
+  // Headers for GitHub API requests
+  const headers = GITHUB_TOKEN 
+    ? { 'Authorization': `token ${GITHUB_TOKEN}` } 
+    : {};
+  
+  // Fetch user stats
+  async function fetchUserStats() {
+    try {
+      const [userResponse, reposResponse] = await Promise.所有([
+        fetch(`https://api.github.com/users/${GITHUB_USERNAME}`, { headers }),
+        fetch(`https://api.github.com/users/${GITHUB_USERNAME}/repos?per_page=100&sort=pushed`, { headers })
+      ]);
+      
+      if (!userResponse.ok || !reposResponse.ok) {
+        throw 新建 Error(`GitHub API request failed: ${userResponse.状态} ${reposResponse.状态}`);
+      }
+      
+      const userData = await userResponse.json();
+      const reposData = await reposResponse.json();
+      
+      // Calculate total stars
+      const totalStars = reposData.reduce((sum, repo) => sum + repo.stargazers_count, 0);
+      
+      // Update user stats
+      const statsContainer = document.getElementById('github-stats');
+      statsContainer.innerHTML = `
+        <div class="stat-card bg-white rounded-lg shadow-md p-4 transition-all hover:shadow-lg">
+          <div class="text-2xl font-bold text-primary">${userData.public_repos}</div>
+          <div class="text-gray-500 text-sm">Repositories</div>
+        </div>
+        <div class="stat-card bg-white rounded-lg shadow-md p-4 transition-all hover:shadow-lg">
+          <div class="text-2xl font-bold text-accent">${totalStars}</div>
+          <div class="text-gray-500 text-sm">Stars</div>
+        </div>
+        <div class="stat-card bg-white rounded-lg shadow-md p-4 transition-all hover:shadow-lg">
+          <div class="text-2xl font-bold text-secondary">${userData.粉丝}</div>
+          <div class="text-gray-500 text-sm">Followers</div>
+        </div>
+        <div class="stat-card bg-white rounded-lg shadow-md p-4 transition-all hover:shadow-lg">
+          <div class="text-2xl font-bold text-primary/80">${userData.关注}</div>
+          <div class="text-gray-500 text-sm">Following</div>
+        </div>
+      `;
+      
+      // Update dynamic stats
+      const dynamicStatsContainer = document.getElementById('dynamic-stats');
+      dynamicStatsContainer.innerHTML = `
+        <img src="https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%" style="margin-bottom: 1rem; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${GITHUB_USERNAME}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" style="margin-bottom: 1rem; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+      `;
+      
+      return reposData;
+    } catch (error) {
+      console.error('Error fetching GitHub stats:', error);
+      return [];
+    }
+  }
+  
+  // Fetch and display recent projects
+  async function fetchAndDisplayProjects() {
+    try {
+      const repos = await fetchUserStats();
+      
+      // Filter out forks and sort by last updated
+      const myRepos = repos
+        .filter(repo => !repo.复刻)
+        .排序((a, b) => 新建 日期(b.updated_at) - 新建 日期(a.updated_at))
+        .slice(0, 3); // Get top 3 recent repos
+      
+      const projectsContainer = document.getElementById('projects-container');
+      
+      if (myRepos.length === 0) {
+        projectsContainer.innerHTML = `
+          <div class="project-card bg-white rounded-xl p-6 text-center">
+            <i class="fa fa-folder-open text-4xl text-gray-300 mb-3"></i>
+            <p class="text-gray-500">No projects found.</p>
+          </div>
+        `;
+        return;
+      }
+      
+      projectsContainer.innerHTML = '';
+      
+      myRepos.forEach(repo => {
+        // Generate random color for project header
+        const colors = ['#165DFF', '#36CFC9', '#722ED1', '#FF7D00', '#F5222D'];
+        const randomColor = colors[Math.floor(Math.random() * colors.length)];
+        
+        // Format date
+        const updatedDate = 新建 日期(repo.updated_at);
+        const formattedDate = updatedDate.toLocaleDateString();
+        
+        // Extract language color from GitHub's official language colors
+        const languageColors = {
+          'JavaScript': '#f1e05a',
+          'Python': '#3572A5',
+          'Java': '#b07219',
+          'HTML': '#e34c26',
+          'CSS': '#563d7c',
+          'TypeScript': '#2b7489',
+          'C++': '#f34b7d',
+          'C#': '#178600'
+        };
+        
+        const languageColor = repo.language && languageColors[repo.language] 
+          ? repo.language && languageColors[repo.language] 
+          : '#6e5494'; // Default color
+        
+        const projectCard = document.createElement('div');
+        projectCard.className = 'project-card';
+        projectCard.style = 'background: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: all 0.3s ease;';
+        
+        projectCard.innerHTML = `
+          <div class="project-header" style="padding: 1rem; background: ${randomColor}; color: white;">
+            <h3 class="project-title" style="font-size: 1.2rem; margin: 0;">${repo.名字}</h3>
+          </div>
+          <div class="project-body" style="padding: 1rem;">
+            <p class="project-desc" style="color: #666; margin-bottom: 1rem;">${repo.描述 || 'No description provided.'}</p>
+            <div class="project-stats" style="display: flex; justify-content: space-between; font-size: 0.9rem;">
+              <span><i class="fa fa-code-fork"></i> ${repo.forks_count} Forks</span>
+              <span><i class="fa fa-star"></i> ${repo.stargazers_count} Stars</span>
+              <span><i class="fa fa-calendar"></i> Updated ${formattedDate}</span>
+            </div>
+          </div>
+          <div class="project-footer" style="padding: 0.75rem 1rem; background: #f8f9fa; display: flex; justify-content: space-between; align-items: center;">
+            <span class="project-lang" style="background: ${languageColor}; color: white; padding: 0.25rem 0.75rem; border-radius: 10px; font-size: 0.8rem;">${repo.language || 'Unknown'}</span>
+            <a href="${repo.html_url}" class="project-link" style="color: ${randomColor}; text-decoration: none; font-weight: bold;">View Project</a>
+          </div>
+        `;
+        
+        // Add hover effect
+        projectCard.addEventListener('mouseover', () => {
+          projectCard.style.transform = 'translateY(-5px)';
+          projectCard.style.boxShadow = '0 10px 20px rgba(0,0,0,0.1)';
+        });
+        
+        projectCard.addEventListener('mouseout', () => {
+          projectCard.style.transform = 'translateY(0)';
+          projectCard.style.boxShadow = '0 4px 12px rgba(0,0,0,0.05)';
+        });
+        
+        projectsContainer.appendChild(projectCard);
+      });
+    } catch (error) {
+      console.error('Error fetching projects:', error);
+      const projectsContainer = document.getElementById('projects-container');
+      projectsContainer.innerHTML = `
+        <div class="project-card bg-white rounded-xl p-6 text-center">
+          <i class="fa fa-exclamation-triangle text-4xl text-yellow-500 mb-3"></i>
+          <p class="text-gray-500">Failed to load projects. Please try again later.</p>
+        </div>
+      `;
+    }
+  }
+  
   // Add simple animation for the rocket icon
   function bounce() {
     const rocket = document.querySelector('img[alt="Rocket"]');
@@ -191,19 +293,6 @@
       rocket.style.transform = 'translateY(0)';
     }, 500);
   }
-  
-  // Add hover effects to project cards
-  const projectCards = document.querySelectorAll('.project-card');
-  projectCards.forEach(card => {
-    card.addEventListener('mouseover', () => {
-      card.style.transform = 'translateY(-5px)';
-      card.style.boxShadow = '0 10px 20px rgba(0,0,0,0.1)';
-    });
-    card.addEventListener('mouseout', () => {
-      card.style.transform = 'translateY(0)';
-      card.style.boxShadow = '0 4px 12px rgba(0,0,0,0.05)';
-    });
-  });
   
   // Add scroll reveal effect
   const observer = 新建 IntersectionObserver((entries) => {
@@ -220,5 +309,11 @@
     div.style.transform = 'translateY(20px)';
     div.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
     observer.observe(div);
+  });
+  
+  // Fetch data and start animations
+  document.addEventListener('DOMContentLoaded', () => {
+    fetchAndDisplayProjects();
+    setInterval(bounce, 2000); // Bounce rocket every 2 seconds
   });
 </script>
