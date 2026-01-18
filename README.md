@@ -12,18 +12,7 @@
 
 ---
 
-### 🌟 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0;">
-  <a href="https://github.com/aeuicey" style="text-decoration: none; color: inherit;">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=aeuicey&theme=default&bg_color=ffffff&title_color=165DFF&text_color=333333&border_color=e0e0e0" />
-  </a>
-  <a href="https://github.com/aeuicey" style="text-decoration: none; color: inherit;">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aeuicey&layout=compact&langs_count=8&card_width=320&theme=default&bg_color=ffffff&title_color=165DFF&text_color=333333&border_color=e0e0e0" />
-  </a>
-</div>
-
----
 
 ### 👋 About Me
 
