@@ -1,91 +1,90 @@
-### 🚀 Welcome to aeuicey (Vertin_Slixey) Zone
+<div align="center">
+
+  <img src="https://avatars.githubusercontent.com/u/170001961?v=4" width="130" alt="avatar" />
+
+  # 🌸 欢迎光临 aeuicey 的小窝 🌸
+
+ 
+</div>
+
+---
+
+## 🎀 关于我
+
+- 🌷 坐标南京的在读大学生，专业是 **工程管理**
+- 📖 日常在学和用的技术栈：`SERN`（SQL Server · Express · React · Node.js）
+- 🔭 折腾过的方向：博客搭建、B 站生态小工具、桌面小软件、AI Skill
+- 🌱 欢迎来我的仓库开 `Issue` / 提 `PR`，或者只是打个招呼也行～
+- 💬 信条：把复杂的问题拆开，然后一块一块吃掉它 🍰
+
+---
+
+## 🧸 技能树
 
 <div align="center">
-  <img src="https://gcore.jsdelivr.net/gh/aeuicey/Picwent/pic/20250702101021407.png" alt="Header" class="header-image" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 100%; height: auto;">
+
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,python,cs,html,css,git,vscode,idea&perline=7" alt="skills" />
+
 </div>
 
-<div align="center" style="margin: 2rem 0;">
-  <a href="https://github.com/aeuicey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=165DFF&center=true&vCenter=true&width=435&lines=Hello+there!+I'm+aeuicey;Engineering+Management+Enthusiast;Open+Source+Contributor" alt="Typing SVG" style="max-width: 100%;">
-  </a>
+| 分类 | 内容 |
+| :--- | :--- |
+| 🖥️ 语言 | JavaScript · TypeScript · Java · Python · C# |
+| 🌐 前端 | React · HTML/CSS |
+| ⚙️ 后端 | Node.js · Express |
+| 🗄️ 数据 | SQL Server |
+| 🛠️ 工具 | Git · VS Code · IDEA |
+
+---
+
+## ⭐ 我的宝贝项目
+
+| 项目 | 简介 |
+| :--- | :--- |
+| 📝 **Hexo 博客静态资源存储库** | 个人博客的图片与静态资源仓库 |
+| 📺 **B 站视频播放器插件（Halo）** | 为 Halo 博客提供 B 站视频嵌入，支持扫码登录、DASH 音画分离、多清晰度切换 |
+| 🔗 **BiliAnalysis 服务端** | B 站视频 / 直播 CDN 直链解析 API 的部署版 |
+| 📅 **全自动课表流水线 Skill** | 大模型 Skill：识别课表文档 → 提取结构化数据 → 导出多种格式并接入日历 |
+| 🎵 **Unlock Music 单文件版** | 将 Unlock Music 编译为免安装绿色 EXE，双击即用 |
+| 🎧 **Cavern（汉化中）** | Fork 自 VoidXH/Cavern，基于对象的音频引擎，支持 Dolby Atmos 渲染 |
+
+---
+
+## 📊 GitHub 小数据
+
+<div align="center">
+
+  <img src="./assets/stats.svg" alt="stats" />
+  <img src="./assets/langs.svg" alt="top langs" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=aeuicey&background=FFFFFF&border=F9C5D5&stroke=F9C5D5&ring=F472B6&fire=FB7185&currStreakNum=F472B6&sideNums=F472B6&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF" alt="streak" />
+
+  <br/>
+
+  <img src="https://ghchart.rshah.org/F472B6/aeuicey" alt="contribution graph" />
+
 </div>
 
 ---
 
+## 📮 找到我
 
+<div align="center">
 
-### 👋 About Me
+  [![GitHub](https://img.shields.io/badge/GitHub-aeuicey-F472B6?logo=github&logoColor=white&style=for-the-badge)](https://github.com/aeuicey)
+  [![Email](https://img.shields.io/badge/Outlook-Alicebhs%40outlook.com-0EA5E9?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:Alicebhs@outlook.com)
+  [![WeChat](https://img.shields.io/badge/WeChat-Vertin__Slixey-07C160?logo=wechat&logoColor=white&style=for-the-badge)]()
 
-<div style="background-color: #f8f9fa; border-radius: 10px; padding: 1.5rem; margin: 2rem 0; border-left: 4px solid #165DFF;">
-  <ul style="list-style-type: none; padding-left: 0; line-height: 1.6;">
-    <li>🔭 I'm Chinese and currently studying in Nanjing.</li>
-    <li>📖 I'm currently learning && using Engineering management...</li>
-    <li>🌱 Ask me about any question about my repos or directly give me a issue/pr~</li>
-    <li>📫 How to reach me: <a href="mailto:Alicebhs@outlook.com" style="color: #165DFF; text-decoration: none;">Alicebhs@outlook.com</a></li>
-    <li>💬 Wechat: Vertin_Slixey</li>
-  </ul>
 </div>
 
 ---
 
-### 💻 Skills & Expertise
+<div align="center">
 
-<div style="margin: 2rem 0; text-align: center;">
-  <p style="font-size: 1.2rem; font-weight: 600; color: #333; margin-bottom: 1rem;">My Technical Toolkit</p>
-  <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" style="width: 50px; height: 50px; transition: transform 0.3s ease; padding: 0.5rem; border-radius: 8px; background-color: #f1f1f1;">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 50px; height: 50px; transition: transform 0.3s ease; padding: 0.5rem; border-radius: 8px; background-color: #f1f1f1;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px; transition: transform 0.3s ease; padding: 0.5rem; border-radius: 8px; background-color: #f1f1f1;">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px; transition: transform 0.3s ease; padding: 0.5rem; border-radius: 8px; background-color: #f1f1f1;">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 50px; height: 50px; transition: transform 0.3s ease; padding: 0.5rem; border-radius: 8px; background-color: #f1f1f1;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width: 50px; height: 50px; transition: transform 0.3s ease; padding: 0.5rem; border-radius: 8px; background-color: #f1f1f1;">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 50px; height: 50px; transition: transform 0.3s ease; padding: 0.5rem; border-radius: 8px; background-color: #f1f1f1;">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="width: 50px; height: 50px; transition: transform 0.3s ease; padding: 0.5rem; border-radius: 8px; background-color: #f1f1f1;">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; height: 50px; transition: transform 0.3s ease; padding: 0.5rem; border-radius: 8px; background-color: #f1f1f1;">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" style="width: 50px; height: 50px; transition: transform 0.3s ease; padding: 0.5rem; border-radius: 8px; background-color: #f1f1f1;">
-  </div>
+  ✨ 愿每一行代码都被温柔以待 ✨
+
+  ⭐ 感谢你的到访，欢迎 Star 和 Follow 呀～ ⭐
+
 </div>
-
-
----
-
-### 📈 GitHub Activity
-
-<div style="margin: 2rem 0; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeuicey&bg_color=ffffff&color=165DFF&line=165DFF&point=165DFF&area=true&hide_border=true" alt="GitHub Activity" style="width: 100%;">
-</div>
-
----
-
-### 📫 Get In Touch
-
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center; margin: 2rem 0; text-align: center;">
-  <a href="mailto:Alicebhs@outlook.com" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.8rem 1.5rem; background-color: #165DFF; color: white; border-radius: 8px; text-decoration: none; transition: background-color 0.3s ease;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2" ry="2"></rect><line x1="3" y1="8" x2="21" y2="8"></line></svg>
-    Email Me
-  </a>
-  
-  <a href="https://github.com/aeuicey" style="display: flex; align-items: center; gap: 0.5rem; padding: 0.8rem 1.5rem; background-color: #333; color: white; border-radius: 8px; text-decoration: none; transition: background-color 0.3s ease;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
-    GitHub Profile
-  </a>
-</div>
-
-### 😄 Fun Fact
-
-<div style="background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); border-radius: 10px; padding: 1.5rem; margin: 2rem 0; text-align: center; font-style: italic; color: #333;">
-  I love solving complex problems and turning ideas into reality!
-</div>
-
-### 📊 Profile Views
-
-<div style="text-align: center; margin: 2rem 0;">
-  <img src="https://komarev.com/ghpvc/?username=aeuicey&color=165DFF&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-<p align="center" style="color: #666; font-size: 0.9rem; margin-top: 2rem;">
-  ⭐️ From <a href="https://github.com/aeuicey" style="color: #165DFF; text-decoration: none;">aeuicey</a> with love ⭐️
-</p>
-
